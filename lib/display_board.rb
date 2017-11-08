@@ -3,7 +3,7 @@ def display_board
  cell = "   "
  row = "#{cell}|#{cell} |#{cell}"
  separator = "-----------"
- 
+
  puts row
  puts separator
  puts row
